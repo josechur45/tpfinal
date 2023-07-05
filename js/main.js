@@ -121,3 +121,9 @@
 
 })(jQuery);
 
+
+// alerta en enviar datos)
+function alerta(){
+  alert("datos enviados");
+}
+
